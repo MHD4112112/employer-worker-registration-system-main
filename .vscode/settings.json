@@ -1,0 +1,6 @@
+{
+  "sonarlint.connectedMode.project": {
+    "connectionId": "sonarqube-test",
+    "projectKey": "MHD4112112_employer-worker-registration-system-main"
+  }
+}
